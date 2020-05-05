@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Xi'an Jiaotong University, 2019
-* M.S. in Computer Science, Tsinghua University, 2012 (expected)
+* M.S. in Computer Science, Tsinghua University, 2022 (expected)
 
 Work experience
 ======
